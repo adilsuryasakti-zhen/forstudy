@@ -1,7 +1,11 @@
 for study
 1 for study
 2 for study
+  -for study 2.1
+  -for study 2.2
 3 for study
 4 untuk belajar
 5 untuk eksplorasi 
 6 mengaplikasikan
+7 web
+8 cs50
