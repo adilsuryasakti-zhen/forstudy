@@ -8,3 +8,4 @@ for study
 5 untuk eksplorasi 
 6 mengaplikasikan
 7 web
+8 cs50
